@@ -1,13 +1,11 @@
-🩺 Medical Image Analysis App (Qwen + Bytez + Streamlit)
+🩺 MedAI Image Analyzer (Qwen + Bytez + Streamlit)
 🔍 Project Overview
 
-Ye project ek AI-powered medical image analysis web app hai, jo users ko medical images upload karne deta hai aur AI ke through structured medical-style analysis generate karta hai.
+This project is an **AI-powered medical image analysis web app** that allows users to upload medical images and generates a **structured, medical-style analysis using AI**.
 
-App Streamlit par bana hai aur Qwen/Qwen3-4B-Instruct-2507 language model ko Bytez API ke through use karta hai.
+The app is built with **Streamlit** and uses the **Qwen / Qwen3-4B-Instruct-2507 language model via the Bytez API**.
+⚠️ This application is intended for **educational and demonstration purposes only** and **should not be used for real medical diagnosis**.
 
-⚠️ Ye app educational aur demonstration purpose ke liye hai, real medical diagnosis ke liye nahi.
-
----
 
 🎯 Project Objective
 
@@ -124,3 +122,4 @@ AI-generated medical-style report is shown on the UI.
    - Not pushed to GitHub
    - Streamlit Cloud uses Secrets Manager"# medical-AI-Image-Analyzer" 
 "# Medical-AI-Image-Analyzer" 
+
