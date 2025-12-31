@@ -1,4 +1,4 @@
-🩺 MedAI Image Analyzer (Qwen + Bytez + Streamlit)
+##🩺 MedAI Image Analyzer (Qwen + Bytez + Streamlit)
 🔍 Project Overview
 
 This project is an **AI-powered medical image analysis web app** that allows users to upload medical images and generates a **structured, medical-style analysis using AI**.
@@ -122,4 +122,5 @@ AI-generated medical-style report is shown on the UI.
    - Not pushed to GitHub
    - Streamlit Cloud uses Secrets Manager"# medical-AI-Image-Analyzer" 
 "# Medical-AI-Image-Analyzer" 
+
 
